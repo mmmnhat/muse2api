@@ -9,7 +9,7 @@
 const $ = (id) => document.getElementById(id);
 const STORE = 'muse2api_ext_cfg';
 
-const ESSENTIAL = ['hatch_sess', 'hatch_gw', 'hatch_vml', 'hatch_native_auth_device'];
+const ESSENTIAL = ['hatch_sess', 'hatch_vml', 'hatch_native_auth_device'];
 
 /* ================= 界面语言 / UI language =================
  * 中文是源语言；英文通过下面的词典替换。
